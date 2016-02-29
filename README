@@ -1,0 +1,5 @@
+# Cucumber-JVM Example
+
+Run:
+
+       $ ./gradlew cucumber
